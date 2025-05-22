@@ -32,8 +32,8 @@ function App() {
   });
 
   return (
-    <div className="min-h-screen bg-gray-100 flex justify-center p-4">
-      <div className="w-full max-w-xl bg-white shadow-md rounded">
+    <div className="mx-auto min-h-screen bg-gray-100 p-4">
+      <div className="w-full bg-white shadow-md rounded">
         <h1 className="text-6xl font-light text-center text-red-200 my-6">
           todos
         </h1>

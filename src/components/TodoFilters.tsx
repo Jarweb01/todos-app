@@ -17,14 +17,12 @@ export default function TodoFilters({
   return (
     <div className="flex justify-between items-center text-sm text-gray-500 px-4 py-2 border-t">
       <span>{itemsLeft} items left</span>
-      <div className="space-x-2">
+      <div className="space-x-2 mx-12">
         {FILTER_ITEMS.map((currentFilter) => (
           <button
             key={currentFilter}
             className={`px-2 py-1 border rounded ${
-              filter === currentFilter
-                ? "border-gray-400"
-                : "border-transparent"
+              filter === currentFilter ? "border-red-300" : "border-transparent"
             }`}
             onClick={() => setFilter(currentFilter)}
           >
