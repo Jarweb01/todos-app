@@ -44,6 +44,9 @@ npm run test
 # Сборка проекта
 npm run build
 ```
+## 🌍 Деплой
+
+Проект доступен по ссылке: [todos-app.vercel.app](https://todo-app-seven-phi-12.vercel.app/)
 
 # Скриншот
 ![Скриншот](./screenshot.png)
