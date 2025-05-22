@@ -1,4 +1,9 @@
 # ToDo App 📝
+[![CI](https://github.com/Jarweb01/todos-app/actions/workflows/ci.yml/badge.svg)](https://github.com/Jarweb01/todos-app/actions/workflows/ci.yml)
+![Last commit](https://img.shields.io/github/last-commit/Jarweb01/todos-app)
+![License](https://img.shields.io/github/license/Jarweb01/todos-app)
+![Stars](https://img.shields.io/github/stars/Jarweb01/todos-app?style=social)
+![Vite](https://img.shields.io/badge/built%20with-vite-646CFF.svg)
 
 Простое ToDo-приложение.
 
